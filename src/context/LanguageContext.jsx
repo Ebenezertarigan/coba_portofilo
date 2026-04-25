@@ -25,6 +25,7 @@ const translations = {
       p2: "My approach is rooted in minimalism and performance. I believe that great design is invisible—it just works, effortlessly guiding the user through a digital journey.",
       exp: 'Years of Experience',
       projects: 'Projects Completed',
+      place : 'Medan, North Sumatra, Indonesia',
       clients: 'Happy Clients'
     },
     skills: {
